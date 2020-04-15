@@ -13,9 +13,9 @@ Here you will find information about website-portolio
 
 :white_check_mark: Vanta.js    
 :white_check_mark: Python map   
-:white_check_mark: IP stats
-:white_check_mark: Deploy script
-:soon: Adnvanced Data map
+:white_check_mark: IP stats <br>
+:white_check_mark: Deploy script <br>
+:soon: Adnvanced Data map <br>
 :soon: Email service
 
 
