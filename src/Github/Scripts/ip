@@ -1,0 +1,4 @@
+#!/bin/sh
+current_ip="$(curl --silent --show-error --fail ipecho.net/plain)"
+url= curl -# extreme-ip-lookup.com/csv/$1
+echo -e $url
