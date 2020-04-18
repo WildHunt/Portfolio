@@ -8,6 +8,7 @@ Here you will find information about website-portolio
 * [Vanta.js](https://github.com/tengbao/vanta) - Animated 3D backgrounds
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [SpringMVC](https://spring.io/) - Web model-view-controller
+* [Bootstrap](https://getbootstrap.com/) - HTML, CSS, and JS library
 
 ## Getting Started
 
@@ -16,7 +17,9 @@ Here you will find information about website-portolio
 :white_check_mark: IP stats <br>
 :white_check_mark: Deploy script <br>
 :soon: Adnvanced Data map <br>
-:soon: Email service
+:soon: Database cards {by Bootstrap} <br>
+:soon: Email service <br>
+:soon: Bonus cat
 
 
 
