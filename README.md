@@ -22,6 +22,13 @@ Here you will find information about website-portolio
 :soon: Bonus cat
 
 
+## Wine Stats:
+### Dashboard
+![alt text][logo]
+
+[logo]: src/Github/Image/dashboard.jpeg "Dashboard"
+
+
 
 
 
