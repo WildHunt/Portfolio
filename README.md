@@ -16,19 +16,22 @@ Here you will find information about website-portolio
 :white_check_mark: Python map   
 :white_check_mark: IP stats <br>
 :white_check_mark: Deploy script <br>
+:white_check_mark: Dashboard {by Bootstrap} <br>
 :soon: Adnvanced Data map <br>
-:soon: Database cards {by Bootstrap} <br>
 :soon: Email service <br>
 :soon: Bonus cat
 
 
 ## Wine Stats:
 ### Dashboard
-![alt text][logo]
+![alt text][dashboard]
 
-[logo]: src/Github/Image/dashboard.jpeg "Dashboard"
+[dashboard]: src/Github/Image/dashboard.jpeg "Dashboard"
 
+### Map
+![alt text][map]
 
+[map]: src/Github/Image/map.jpeg "Map"
 
 
 
